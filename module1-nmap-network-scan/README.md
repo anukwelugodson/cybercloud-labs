@@ -14,9 +14,9 @@ Perform a network scan to identify open ports and services on a Windows host, us
 ```bash
 nmap -sS -sV -T4 192.168.229.172
 
-## Screenshots
+##  Screenshots
 
-![Nmap Output](./screenshots/nmap_output.png)
+![Nmap Scan Result](./screenshots/Screenshots.png)
 
 Analysis & Security Implications
 
