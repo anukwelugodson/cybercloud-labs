@@ -2,13 +2,13 @@
 
 This repository showcases hands-on *cybersecurity projects* completed as part of my *Cisco Academy* training and *Coursera* courses. It reflects practical skills I’ve gained in the field of cybersecurity, with a focus on real-world tools, security analysis, and vulnerability scanning.
 
-> *Certifications in Progress*:  
-- *Cisco*: Certified Cybersecurity Professional (soon)  
-- *Coursera*: Google Cybersecurity professional (in progress)
+> Certifications in Progress
+- Cisco Certified Cybersecurity Professional (completion expected soon)
+- Coursera: Google Cybersecurity Professional Certificate (in progress)
 
 ## Completed Projects
 
-- [Module 1: Nmap Network Scan](./module1-nmap-network-scan)  
+- [Module 1: Nmap Network Scan](./Module1-Nmap-Network-Scan)  
    *Tools Used*: Nmap, Linux CLI  
    *Skills*: Reconnaissance, Network Scanning, Vulnerability Identification
 
