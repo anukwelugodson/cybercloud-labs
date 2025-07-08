@@ -15,7 +15,7 @@ It was built during my cybersecurity training on Cisco Networking Academy as par
 - Detect outdated/vulnerable services
 - Explain possible exploits and defenses
 
-## Screenshots
+## screenshots
 
 See below for visual evidence of the scan results.
 
