@@ -1,6 +1,12 @@
-# Module 2 Project - Cybersecurity Attacks and Vulnerability Analysis
+# Module 2 Project – Cybersecurity Attacks & Vulnerability Analysis
 
-This project is based on Module 2 of the Cisco IoT Cybersecurity Course. It focuses on analyzing real-world network attacks, identifying infiltration methods, and understanding vulnerabilities and exploits using Nmap and hands-on techniques.
+This project is a practical demonstration of real-world attack vectors, service vulnerabilities, and port scanning techniques.  
+It was built during my cybersecurity training on Cisco Networking Academy as part of my hands-on portfolio.
+
+## Learning Source
+
+- Cisco Networking Academy – Cybersecurity Essentials  
+- Upcoming: Coursera Cybersecurity Specialization (Financial Aid in Progress)
 
 ## Project Goals
 
