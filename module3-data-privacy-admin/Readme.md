@@ -18,8 +18,6 @@ desktop-i744bp4\user
 
 ![Whoami Screenshot](./screenshots/whoami.png)
 
----
-
 ### 2. hostname
 
 DESKTOP-I744BP4
