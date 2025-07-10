@@ -12,73 +12,85 @@
 
 ## ⚙ System Information Commands (Windows)
 
-###  Who Am I
-
-```bash
 ### 1. whoami
-desktop-i744bp4\user
-![whoami Screenshot](./screenshots/whoami.png)
 
+desktop-i744bp4\user
+
+![Whoami Screenshot](./screenshots/whoami.png)
+
+---
 
 ### 2. hostname
+
 DESKTOP-I744BP4
-![hostname Screenshot](./screenshots/hostname.png)
+
+![Hostname Screenshot](./screenshots/hostname.png)
+
+---
 
 ### 3. ipconfig
-- Wireless LAN adapter  Wi-Fi:IPv4
-- Address.............:192.168.229.172
-- Subnet Mask.........:255.255.255.0 Defult
-- Gateway.............:192.168.229.251
-![ipconfig Screenshot](./screenshots/ipconfig.png)
+
+IPv4 Address: 192.168.229.172  
+Subnet Mask: 255.255.255.0  
+Default Gateway: 192.168.229.251
+
+![IPConfig Screenshot](./screenshots/ipconfig.png)
 
 
 ### 4. netsh advfirewall show allprofiles
-Domain Profile: State: ON Firewall Policy: BlockInbound, AllowOutbound
 
-Private Profile: State: ON Firewall Policy: BlockInbound, AllowOutbound
+Domain Profile Settings:
+State: ON  
+Firewall Policy: BlockInbound, AllowOutbound
 
-Public Profile: State: ON Firewall Policy: BlockInbound, AllowOutbound
-![Firewall Screenshot](./screenshots/firewall.png)
+Private Profile Settings:
+State: ON  
+Firewall Policy: BlockInbound, AllowOutbound
+
+Public Profile Settings:
+State: ON  
+Firewall Policy: BlockInbound, AllowOutbound
+
+![Firewall Screenshot](./screenshots/firewall_status.png)
+
 
 ### 5. hibp email check
-Result: No breaches found for this email.
+*Result:* No breaches found for this email.
+
+Used [HaveIBeenPwned.com](https://haveibeenpwned.com) to confirm no data breach exposure.
+
 ![HIBP Screenshot](./screenshots/hibp.png)
 
-#### What I Learned
 
-How to use basic Windows system commands to inspect network setup.
+## What I Learned
 
-Verified firewall protection status.
+- How to use basic Windows system commands to inspect network setup.  
+- Verified firewall protection status.  
+- Learned how to check email breach status using HIBP.  
+- Understood how to document cyber hygiene in a real-world format.
 
-Learned how to check email breach status using HIBP.
+---
 
-Understood how to document cyber hygiene in a real-world format.
+##  Tools Used
 
+- Command Prompt  
+- HaveIBeenPwned.com  
+- Visual Studio Code  
+- GitHub
 
+---
 
-#### 🛡 Tools Used
+##  Skills Demonstrated
 
-Command Prompt
+- OSINT basics  
+- Email breach tracking  
+- Windows command-line navigation  
+- Network diagnostics  
+- Firewall verification  
+- Cyber hygiene documentation
 
-HaveIBeenPwned.com
+---
 
-Visual Studio Code
+## Certification
 
-GitHub
-
-
-#### Skills Demonstrated
-
-OSINT basics
-
-Email breach tracking
-
-Windows command-line navigation
-
-Network diagnostics
-
-Firewall verification
-
-Cyber hygiene documentation
-
-## This Project was completed as part of Cisco Cybersecurity Professional course training 
+This Project was completed as part of the *Cisco Cybersecurity Professional* course training.
