@@ -1,111 +1,119 @@
-#  AWS Cloud Practitioner Lab Project
+# AWS Cloud Practitioner Lab Project
 
-This project demonstrates hands-on foundational experience using Amazon Web Services (AWS), focusing on two key services: *Amazon S3* and *EC2 (Elastic Compute Cloud)*. The goal is to simulate basic cloud service operations — creating, configuring, accessing, and managing resources — all through the AWS Console and EC2 Linux instance.
+This project demonstrates foundational hands-on experience using Amazon Web Services (AWS), focusing on three core services: *Amazon S3, **Amazon EC2, and **IAM*. The objective is to simulate real-world cloud operations by creating, configuring, and managing AWS resources via the AWS Console and Linux terminal.
 
 
 ##  Step-by-Step Execution
 
 ### 1️⃣ AWS Account Creation and Console Access
 
-Created a free-tier AWS account and logged in to the AWS Console successfully.
+Created a free-tier AWS account and successfully logged into the AWS Console.
 
-Screenshot:  
+ Screenshot:  
 ![Account Created](./screenshots/step-01-account-created.png)
 
 
-### 2️⃣ Navigating the AWS Console
+### 2️⃣ Exploring the AWS Console
 
-Explored the AWS Console to identify available services such as S3, EC2, IAM, and more.
+Navigated the AWS Console to locate key services such as EC2, S3, IAM, and more.
 
-Screenshot:  
+ Screenshot:  
 ![AWS Console Dashboard](./screenshots/step-02-console-dashboard.png)
 
 
-### 3️⃣ S3 Bucket Creation
+### 3️⃣ IAM User Creation
 
-Created an Amazon S3 bucket with default settings (block public access, SSE encryption). This was done in preparation for storing cloud data securely.
+Created an IAM user to demonstrate identity and permission management in AWS.  
+Steps taken:
+- Created a new IAM user (console access only)
+- Set custom password
+- Skipped group and permissions setup (for basic demo)
+- Logged in with new IAM credentials
 
- Screenshot of the configuration page:  
-![S3 Bucket Setup](./screenshots/step-03-s3-create-start.png)
-
- Screenshot of successful bucket creation:  
-![S3 Bucket Created](./screenshots/step-04-s3-created-successfully.png)
+ Screenshot:  
+![IAM User Created](./screenshots/step-03-iam-user-created.png)
 
 
-### 4️⃣ EC2 Instance Launch
+### 4️⃣ S3 Bucket Creation
 
-Launched a free-tier Amazon EC2 instance using *Amazon Linux 2 AMI*, with:
-- t2.micro instance type
-- Default VPC and subnet
+Created a secure Amazon S3 bucket using default configurations:
+- Blocked public access
+- Enabled SSE (Server-Side Encryption)
+
+ Screenshots:  
+- Bucket configuration: ![S3 Bucket Setup](./screenshots/step-04-s3-create-start.png)  
+- Successful creation: ![S3 Bucket Created](./screenshots/step-05-s3-created-successfully.png)
+
+
+### 5️⃣ Launching EC2 Instance
+
+Launched a *t2.micro* EC2 instance with:
+- Amazon Linux 2 AMI
+- Default VPC/subnet
 - Auto-generated key pair
-- Security group allowing SSH (port 22)
+- Security group with SSH (port 22) access
 
-Screenshot:  
-![EC2 Launch Settings](./screenshots/step-05-ec2-launch-settings.png)
-
- Screenshot of running instance:  
-![EC2 Running](./screenshots/step-06-ec2-instance-running.png)
+ Screenshots:  
+- Launch settings: ![EC2 Launch Settings](./screenshots/step-06-ec2-launch-settings.png)  
+- Instance running: ![EC2 Running](./screenshots/step-07-ec2-instance-running.png)
 
 
+### 6️⃣ Connecting to EC2 (Browser Terminal)
 
-### 5️⃣ Connecting to EC2 via Web Terminal
+Used the EC2 Connect feature to access the instance via browser-based Linux terminal.
 
-Used the EC2 *Connect* feature (browser terminal) to access the Linux terminal.
-
-Screenshot:  
-![EC2 Web CLI](./screenshots/step-07-ec2-connect-cli.png)
-
+ Screenshot:  
+![EC2 Web CLI](./screenshots/step-08-ec2-connect-cli.png)
 
 
-### 6️⃣ Running Linux Commands
+### 7️⃣ Running Linux Diagnostic Commands
 
-Executed basic Linux diagnostic commands to understand the EC2 environment:
+Executed basic Linux terminal commands to explore system-level information:
 
-| Command | Purpose |
-|--------|---------|
-| whoami | Shows current user |
-| hostname | Displays machine name |
-| uname | Kernel/system details |
-| uptime | Shows system running time |
-| df | Disk space usage |
+| Command   | Description                     |
+|-----------|---------------------------------|
+| whoami  | Current user                    |
+| hostname| Machine hostname                |
+| uname   | System kernel and OS info       |
+| uptime  | System uptime and load          |
+| df      | Disk usage stats                |
 
  Screenshots:
-- whoami: ![whoami](./screenshots/step-08-whoami.png)
-- hostname: ![hostname](./screenshots/step-09-hostname.png)
-- uname: ![uname](./screenshots/step-10-uname.png)
-- uptime: ![uptime](./screenshots/step-11-uptime.png)
-- df: ![df](./screenshots/step-12-df.png)
+- ![whoami](./screenshots/step-09-whoami.png)
+- ![hostname](./screenshots/step-10-hostname.png)
+- ![uname](./screenshots/step-11-uname.png)
+- ![uptime](./screenshots/step-12-uptime.png)
+- ![df](./screenshots/step-13-df.png)
 
 
-### 7️⃣ EC2 Termination
+### 8️⃣ EC2 Instance Termination
 
-After usage, the EC2 instance was *terminated* to avoid AWS charges.
+Terminated the EC2 instance after usage to prevent AWS charges.
 
-Screenshot:  
-![EC2 Terminated](./screenshots/step-13-ec2-terminated.png)
-
+ Screenshot:  
+![EC2 Terminated](./screenshots/step-14-ec2-terminated.png)
 
 
 ##  What I Learned
 
-- ✅ Creating and configuring cloud resources on AWS
-- ✅ Understanding how S3 and EC2 work at a beginner level
-- ✅ Navigating cloud service dashboards
-- ✅ Running basic terminal commands in a real Linux environment
-- ✅ Practicing cost-saving cleanup (terminating instances)
+- ✅ Creating and managing S3, EC2, and IAM resources
+- ✅ Navigating the AWS Console effectively
+- ✅ Executing Linux commands inside an AWS EC2 instance
+- ✅ Following cost-saving best practices (resource cleanup)
+- ✅ Gaining confidence in foundational cloud infrastructure concepts
 
----
 
 ##  Author
 
-- *Project Execution*: [Anukwelu Amamachukwu Godson]
-
-## Acknowledgment
-
-This project was carried out through the AWS Skill Builder training platform as part of my foundational cloud computing journey. Special thanks to the AWS Cloud Practitioner Lab for providing a hands-on, practical learning experience.
+*Anukwelu Amamachukwu Godson*
 
 
-##  Note
+##  Acknowledgment
 
-> Always remember to *terminate your EC2 instances and delete unused resources* to avoid unnecessary AWS billing.
+This project was executed through the *AWS Skill Builder* platform as part of my foundational cloud training.  
+Thanks to AWS for providing practical, hands-on learning resources for beginners.
 
+
+## ⚠ Note
+
+> Always terminate EC2 instances and delete unused resources after use to avoid unexpected billing.
