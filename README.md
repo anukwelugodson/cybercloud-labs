@@ -1,33 +1,70 @@
-#  CyberSecurity Labs (Cisco Academy & Coursera-Based Projects)
+# 🛡 CyberSecurity Labs (Cisco Academy Projects)
 
-This repository showcases hands-on *cybersecurity projects* completed as part of my *Cisco Academy* training and *Coursera* courses. It reflects practical skills I’ve gained in the field of cybersecurity, with a focus on real-world tools, security analysis, and vulnerability scanning.
+This repository showcases hands-on cybersecurity projects completed as part of my *Cisco Academy* training. It reflects practical skills I’ve gained in the field of cybersecurity, with a focus on real-world tools, security analysis, and system protection.
 
-> Certifications in Progress
-- Cisco Certified Cybersecurity Professional (completion expected soon)
-- Coursera: Google Cybersecurity Professional Certificate (in progress)
-
-## Completed Projects
-
-- [Module 1: Nmap Network Scan](./Module1-Nmap-Network-Scan)  
-   *Tools Used*: Nmap, Linux CLI  
-   *Skills*: Reconnaissance, Network Scanning, Vulnerability Identification
-
-## Key Learnings
-- *Network Scanning*: Understanding attack vectors like open ports and exposed services.
-- *Security Vulnerabilities*: How to detect dangerous services and mitigate risks.
-- *Command Line Mastery*: Efficient use of Linux CLI tools to perform scans.
-
-## Project Goal
-To apply theoretical knowledge into real-world practical cybersecurity solutions, focusing on:
-- Identifying and securing vulnerable systems
-- Building hands-on experience with industry-standard tools like Nmap
-
-## Next Steps & Upcoming Projects
-- *Module 2*: Password Cracking (Hydra / John the Ripper)
-- *Module 3*: Malware Analysis & Reverse Engineering
-- *Module 4*: Intrusion Detection and Network Security  
-More projects will be added as I progress through the *Cisco Academy* training and *Coursera* cybersecurity courses.
+> Certification in Progress:
+- Cisco Certified Cybersecurity Professional (final module in progress)
 
 ---
-## Career Focus
-My primary goal is to become a *skilled cybersecurity analyst* with certifications from *Cisco* and *Coursera*. This repo reflects my ongoing commitment to mastering the technical skills required to combat modern cyber threats.
+
+## ✅ Completed Projects
+
+### 🔹 [Module 1: Nmap Network Scan](./Module1-Nmap-Network-Scan)
+*Tools Used*: Nmap, Linux CLI  
+*Skills*: Reconnaissance, Network Scanning, Vulnerability Identification
+
+### 🔹 [Module 2: Password Cracking](./Module2-Password-Cracking)
+*Tools Used*: Hydra, John the Ripper  
+*Skills*: Brute-force Attacks, Password List Attacks, Authentication Weakness Discovery
+
+### 🔹 [Module 3: Data Privacy and Protection](./Module3-Data-Privacy)
+*Tools Used*: Windows CMD, PowerShell  
+*Skills*: User Enumeration, Device Protection, Online Behavior Analysis
+
+### 🔹 [Module 4: Server Security & Protection](./Module4-Server-Security)
+*Tools Used*: Windows PowerShell, Systeminfo, Defender Status  
+*Skills*: System Hardening, Patch Management, Firewall & Antivirus Diagnostics
+
+---
+
+## AWS Cloud Projects (AWS Skill Builder Labs)
+
+This section showcases hands-on cloud computing projects completed through *AWS Skill Builder*. These labs focus on practical use of AWS services like EC2, S3, and IAM, combined with Linux terminal usage inside the AWS environment.
+
+###  [AWS Cloud Practitioner Lab Project](./aws-cloud-practitioner)
+*Tools Used*: AWS Console, EC2, S3, IAM, Linux Terminal  
+*Skills*: Cloud Resource Deployment, Identity Management (IAM), Linux Diagnostics, Cost Optimization, EC2 Lifecycle Management
+
+---
+
+##  Key Learnings
+
+- Network Scanning: Detecting open ports, exposed services, and weak configurations  
+- System Hardening: Applying security principles to protect operating systems and cloud instances  
+- Linux Mastery: Navigating Linux terminals to run system diagnostics  
+- Cloud Security: Setting up IAM users, managing EC2 instances, and protecting data in AWS  
+
+---
+
+##  Project Goals
+
+To apply theoretical knowledge into real-world practical cybersecurity and cloud solutions, focusing on:
+- Identifying and securing vulnerable systems
+- Gaining hands-on experience with industry-standard tools (e.g., Nmap, Hydra, EC2, IAM)
+- Practicing cost management and security best practices in the cloud
+
+---
+
+##  Next Steps
+
+- 🔸 *Module 5* (Cisco): IoT Security & Endpoint Protection (in progress)
+- 🔸 More AWS labs (CloudTrail, CloudWatch, IAM roles, VPC setup)
+
+---
+
+##  Career Focus
+
+My primary goal is to become a *skilled cybersecurity analyst* with practical, hands-on experience in system security and cloud infrastructure.  
+This repository documents my journey through the Cisco Cybersecurity program and AWS Skill Builder labs, proving my ability to execute in real-world environments.
+
+---
