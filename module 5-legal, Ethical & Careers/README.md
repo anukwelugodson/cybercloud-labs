@@ -1,4 +1,4 @@
-# 🛡 Cybersecurity Module 5: Legal, Ethics & Careers in Cybersecurity
+#  Cybersecurity Module 5: Legal, Ethics & Careers in Cybersecurity
 
 ## Project Overview
 
@@ -55,7 +55,7 @@ Below are the system commands I ran to demonstrate awareness of user privileges,
 
 ---
 
-## ⚖ Legal and Ethical Issues in Cybersecurity
+##  Legal and Ethical Issues in Cybersecurity
 
 Cybersecurity professionals often have access to sensitive systems and data. This makes it essential to act legally and ethically at all times.
 
