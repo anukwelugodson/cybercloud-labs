@@ -16,7 +16,7 @@ Below are the system commands I ran to demonstrate awareness of user privileges,
 - *Output Sample*:  
   DESKTOP-XXXXXXX\Godson
 
-![whoami](/whoami.png)
+![whoami](screenshots/whoami.png)
 
 ---
 
