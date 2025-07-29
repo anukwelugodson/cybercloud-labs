@@ -1,8 +1,8 @@
 #  Cybersecurity Module 5: Legal, Ethics & Careers in Cybersecurity
 
-## Project Overview
+##  Project Overview
 
-This project explores the legal and ethical responsibilities of cybersecurity professionals and highlights potential career paths in the field. In addition, it includes a set of system diagnostic commands to assess the status of a Windows machine, confirming user identity, system health, and security configuration.
+This project explores the *legal and ethical responsibilities* of cybersecurity professionals and highlights potential career paths in the field. It also includes a set of system diagnostic commands to assess the status of a Windows machine, confirming user identity, system health, and security configuration.
 
 ---
 
@@ -35,8 +35,8 @@ Below are the system commands I ran to demonstrate awareness of user privileges,
 - *Why It Matters*: Helps assess vulnerabilities, patch status, and system health.
 - *Key Insights*:
   - OS: Windows 10 Pro
-  - System Manufacturer: [e.g., HP or Dell]
-  - Last Boot Time: [recent or outdated]
+  - System Manufacturer: e.g., HP or Dell
+  - Last Boot Time: recent or outdated
 
 ![systeminfo](screenshots/systeminfo.png)
 
@@ -55,9 +55,9 @@ Below are the system commands I ran to demonstrate awareness of user privileges,
 
 ---
 
-##  Legal and Ethical Issues in Cybersecurity
+##  Legal & Ethical Responsibilities in Cybersecurity
 
-Cybersecurity professionals often have access to sensitive systems and data. This makes it essential to act legally and ethically at all times.
+Cybersecurity professionals often have access to sensitive systems and data. This makes it essential to act *legally* and *ethically* at all times.
 
 ###  Key Concepts Covered:
 - *Legal Boundaries*: Skills must be used legally, even if you have the ability to hack.
@@ -73,15 +73,13 @@ Ask yourself:
 - Would I be okay if everyone acted this way?
 - Would it look good on the front page of a newspaper?
 
-*Bottom line: *What’s legal isn’t always ethical. Ethics requires transparency and responsibility.
+*Bottom line:* What’s legal isn’t always ethical. Ethics requires transparency and responsibility.
 
 ---
 
 ##  Cybersecurity Certifications
 
 Certifications help validate your skills, boost your profile, and unlock new career levels.
-
-###  Notable Certifications:
 
 | Certification | Description | Experience Required |
 |---------------|-------------|---------------------|
@@ -95,19 +93,24 @@ Certifications help validate your skills, boost your profile, and unlock new car
 
 ##  Career Pathways in Cybersecurity
 
-There are diverse job roles across the cybersecurity field. Your journey could begin as a *Security Analyst* and grow into a *Cybersecurity Consultant, **SOC Manager, or **Penetration Tester*.
+There are diverse job roles across the cybersecurity field. Your journey could begin as a *Security Analyst* and grow into roles such as:
+
+- Cybersecurity Consultant  
+- SOC Manager  
+- Penetration Tester  
 
 ###  Use CyberSeek
-CyberSeek provides a visual roadmap of cybersecurity career options. It helps you:
+
+*CyberSeek* provides a visual roadmap of cybersecurity career options. It helps you:
 - Explore roles
 - See salary ranges
 - Understand required skills
 
-*Link*: [CyberSeek Interactive Career Pathway](https://www.cyberseek.org/pathway.html)
+ *Link*: [CyberSeek Interactive Career Pathway](https://www.cyberseek.org/pathway.html)
 
 ---
 
-## Conclusion – What I Learned
+##  Conclusion – What I Learned
 
 This module taught me:
 - The difference between legal and ethical behavior in cybersecurity.
@@ -116,3 +119,5 @@ This module taught me:
 - The importance of tools like CyberSeek for job research and planning.
 
 ---
+
+![Status](https://img.shields.io/badge/Module-5%20Completed-green)
