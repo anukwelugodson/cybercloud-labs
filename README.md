@@ -1,70 +1,117 @@
-# 🛡 CyberSecurity Labs (Cisco Academy Projects)
+#  CyberCloud Labs – Practical Projects in Cybersecurity, Cloud & Networking
 
-This repository showcases hands-on cybersecurity projects completed as part of my *Cisco Academy* training. It reflects practical skills I’ve gained in the field of cybersecurity, with a focus on real-world tools, security analysis, and system protection.
+Welcome to my CyberCloud Labs repository! This space showcases the hands-on projects, certifications, and achievements I’ve completed during my training in *Cybersecurity, **Cloud Computing, and **Networking*.
 
-> Certification in Progress:
-- Cisco Certified Cybersecurity Professional (final module in progress)
-
----
-
-## ✅ Completed Projects
-
-### 🔹 [Module 1: Nmap Network Scan](./Module1-Nmap-Network-Scan)
-*Tools Used*: Nmap, Linux CLI  
-*Skills*: Reconnaissance, Network Scanning, Vulnerability Identification
-
-### 🔹 [Module 2: Password Cracking](./Module2-Password-Cracking)
-*Tools Used*: Hydra, John the Ripper  
-*Skills*: Brute-force Attacks, Password List Attacks, Authentication Weakness Discovery
-
-### 🔹 [Module 3: Data Privacy and Protection](./Module3-Data-Privacy)
-*Tools Used*: Windows CMD, PowerShell  
-*Skills*: User Enumeration, Device Protection, Online Behavior Analysis
-
-### 🔹 [Module 4: Server Security & Protection](./Module4-Server-Security)
-*Tools Used*: Windows PowerShell, Systeminfo, Defender Status  
-*Skills*: System Hardening, Patch Management, Firewall & Antivirus Diagnostics
+Each folder contains a project tied to a specific module or course with full documentation, screenshots, command outputs, and learning outcomes. This GitHub demonstrates my practical understanding of system security, cloud infrastructure, networking tools, and real-world defensive strategies.
 
 ---
 
-## AWS Cloud Projects (AWS Skill Builder Labs)
+##  Projects Breakdown
 
-This section showcases hands-on cloud computing projects completed through *AWS Skill Builder*. These labs focus on practical use of AWS services like EC2, S3, and IAM, combined with Linux terminal usage inside the AWS environment.
+###  1. Introduction to Cybersecurity Labs
+*Modules Covered*:
+- Cybersecurity fundamentals
+- Data privacy and protection
+- Server security and protection
 
-###  [AWS Cloud Practitioner Lab Project](./aws-cloud-practitioner)
-*Tools Used*: AWS Console, EC2, S3, IAM, Linux Terminal  
-*Skills*: Cloud Resource Deployment, Identity Management (IAM), Linux Diagnostics, Cost Optimization, EC2 Lifecycle Management
+*What I Did*:
+- Ran key diagnostic and system commands on my Windows machine.
+- Learned how to protect devices, maintain data integrity, and identify privacy risks.
+- Demonstrated awareness of data ownership, permissions, and safe internet behaviors.
 
----
+*Project Deliverables*:
+- System and privacy checks using PowerShell & CMD
+- Screenshots uploaded in project folders
+- Analysis written in the README files
 
-##  Key Learnings
+###  2. Final Cybersecurity Project (cybersecurity-final-project)
+This project combines the skills I developed across all modules into one final security check of a Windows system.
 
-- Network Scanning: Detecting open ports, exposed services, and weak configurations  
-- System Hardening: Applying security principles to protect operating systems and cloud instances  
-- Linux Mastery: Navigating Linux terminals to run system diagnostics  
-- Cloud Security: Setting up IAM users, managing EC2 instances, and protecting data in AWS  
+*What I Did*:
+- Performed system diagnostics
+- Evaluated firewall & antivirus status
+- Explained findings for recruiters and interviews
 
----
-
-##  Project Goals
-
-To apply theoretical knowledge into real-world practical cybersecurity and cloud solutions, focusing on:
-- Identifying and securing vulnerable systems
-- Gaining hands-on experience with industry-standard tools (e.g., Nmap, Hydra, EC2, IAM)
-- Practicing cost management and security best practices in the cloud
-
----
-
-##  Next Steps
-
-- 🔸 *Module 5* (Cisco): IoT Security & Endpoint Protection (in progress)
-- 🔸 More AWS labs (CloudTrail, CloudWatch, IAM roles, VPC setup)
+*Project Folder*: cybersecurity-final-project
 
 ---
 
-##  Career Focus
+###  3. Cloud Computing Course & Project
+*What I Learned*:
+- Cloud service models (IaaS, PaaS, SaaS)
+- Cloud migration strategies
+- AWS basics, EC2 instance setup, and billing structures
 
-My primary goal is to become a *skilled cybersecurity analyst* with practical, hands-on experience in system security and cloud infrastructure.  
-This repository documents my journey through the Cisco Cybersecurity program and AWS Skill Builder labs, proving my ability to execute in real-world environments.
+*Project Deliverables*:
+- EC2 instance created and configured
+- Screenshots and documentation uploaded
+- ReadMe explains every step clearly
+
+*Project Folder*: cloud-computing-project
 
 ---
+
+###  4. AWS Cloud Practitioner
+*What I Did*:
+- Completed AWS Cloud Practitioner Essentials via AWS Skill Builder
+- Passed knowledge check and earned certificate
+- Gained hands-on EC2 experience through project work
+
+---
+
+###  5. Networking Basics Course & Project
+*What I Learned*:
+- Network types, IP addressing, routing, TCP/UDP
+- Key tools like ping, nslookup, netstat, tracert, route print, etc.
+- IPv4 configuration and command-line troubleshooting
+
+*Project Deliverables*:
+- Networking command outputs and screenshots
+- Network diagram showing device connections
+- README file explaining every result
+
+*Project Folder*: networking-basics-project
+
+---
+
+##  Certificates & Badges
+
+All certificates and official course badges are stored in the certificates/ folder.  
+These documents prove successful completion of practical labs and theoretical training.
+
+###  Certificates Uploaded:
+- *Introduction to Cybersecurity Certificate*
+- *Cloud Computing Certificate*
+- *AWS Cloud Practitioner Certificate*
+- *Networking Basics Certificate*
+
+###  Badges Uploaded:
+- *Networking Basics Badge*
+- *Cybersecurity Badge*
+
+ View them inside the [certificates](https://github.com/anukwelugodson/cybercloud-labs/tree/main/certificates) folder on this repository.
+
+---
+
+## Skills Demonstrated
+
+-  System diagnostics and analysis (Windows-based)
+-  Cloud service configuration (AWS EC2)
+-  Network troubleshooting using command-line tools
+-  Security awareness and risk detection
+-  Technical reporting using markdown & GitHub
+
+---
+
+##  Education
+
+*Enugu State University of Science and Technology*  
+Bachelor of Science in Computer Science (2022 – 2026)  
+Currently a 300-level student, actively building practical skills in cybersecurity, cloud computing, and networking.
+
+---
+
+##  Contact
+
+> My certificates, badges, and project documentation speak for my practical knowledge.  
+> Connect with me on [LinkedIn](https://linkedin.com) — coming soon!
