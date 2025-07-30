@@ -99,7 +99,7 @@ These documents prove successful completion of practical labs and theoretical tr
 -  Cloud service configuration (AWS EC2)
 -  Network troubleshooting using command-line tools
 -  Security awareness and risk detection
--  Technical reporting using markdown & GitHub
+-  Technical reporting using markdown & GitHub.
 
 ---
 
