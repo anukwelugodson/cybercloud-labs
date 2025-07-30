@@ -40,15 +40,11 @@ systeminfo
 
 *Output Highlights*:
 - *Host Name*: DESKTOP-I744BP4
-- *OS Name*: Microsoft Windows 10 Pro
+- *OS Name*: Microsoft Windows 11 Pro
 - *OS Version*: 10.0.26100 Build 26100
 - *System Manufacturer*: DELL Inc.
-- *System Model*: Inspiron 5558
 - *System Type*: x64-based PC
-- *Installed Physical Memory (RAM)*: 8.00 GB
-- *Domain*: WORKGROUP
-- *Hotfixes*: Multiple installed
-- *Network Cards*: 2 NICs available
+- *Installed Physical Memory (RAM)*: 16.00 GB
 
 >  Screenshot: ![systeminfo](screenshots/systeminfo.png)
 
