@@ -33,16 +33,16 @@ This diagram illustrates the flow of data through common networking devices:
 
 ##  Commands and Utilities Used
 
-✅ whoami  
-✅ hostname  
-✅ systeminfo  
-✅ ipconfig /all  
-✅ Get-NetIPConfiguration  
-✅ arp -a  
-✅ netstat -an  
-✅ nslookup  
-✅ ping  
-✅ tracert
+ whoami  
+ hostname  
+ systeminfo  
+ ipconfig /all  
+ Get-NetIPConfiguration  
+ arp -a  
+ netstat -an  
+ nslookup  
+ ping  
+ tracert
 
 Each command was tested and screenshots were taken as proof of output.
 
@@ -143,10 +143,10 @@ Get-NetIPConfiguration
 
 ## 🔹 6. arp -a
 
-### 🔍 Purpose:
+###  Purpose:
 Displays the *ARP table* — showing IP-to-MAC address mapping on LAN.
 
-### 🖥 What I Did:
+###  What I Did:
 bash
 arp -a
 

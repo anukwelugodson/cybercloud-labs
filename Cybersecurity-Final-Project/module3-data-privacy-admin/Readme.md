@@ -10,7 +10,7 @@
 
 ---
 
-## ⚙ System Information Commands (Windows)
+##  System Information Commands (Windows)
 
 ### 1. whoami
 

@@ -5,7 +5,7 @@ This project demonstrates foundational hands-on experience using Amazon Web Serv
 
 ##  Step-by-Step Execution
 
-### 1️⃣ AWS Account Creation and Console Access
+###  AWS Account Creation and Console Access
 
 Created a free-tier AWS account and successfully logged into the AWS Console.
 
@@ -13,7 +13,7 @@ Created a free-tier AWS account and successfully logged into the AWS Console.
 ![Account Created](./screenshots/step-01-account-created.png)
 
 
-### 2️⃣ Exploring the AWS Console
+###  Exploring the AWS Console
 
 Navigated the AWS Console to locate key services such as EC2, S3, IAM, and more.
 
@@ -21,7 +21,7 @@ Navigated the AWS Console to locate key services such as EC2, S3, IAM, and more.
 ![AWS Console Dashboard](./screenshots/step-02-console-dashboard.png)
 
 
-### 3️⃣ IAM User Creation
+###  IAM User Creation
 
 Created an IAM user to demonstrate identity and permission management in AWS.  
 Steps taken:
@@ -34,7 +34,7 @@ Steps taken:
 ![IAM User Created](./screenshots/step-03-iam-user-created.png)
 
 
-### 4️⃣ S3 Bucket Creation
+###  S3 Bucket Creation
 
 Created a secure Amazon S3 bucket using default configurations:
 - Blocked public access
@@ -45,7 +45,7 @@ Created a secure Amazon S3 bucket using default configurations:
 - Successful creation: ![S3 Bucket Created](./screenshots/step-05-s3-created-successfully.png)
 
 
-### 5️⃣ Launching EC2 Instance
+###  Launching EC2 Instance
 
 Launched a *t2.micro* EC2 instance with:
 - Amazon Linux 2 AMI
@@ -58,7 +58,7 @@ Launched a *t2.micro* EC2 instance with:
 - Instance running: ![EC2 Running](./screenshots/step-07-ec2-instance-running.png)
 
 
-### 6️⃣ Connecting to EC2 (Browser Terminal)
+###  Connecting to EC2 (Browser Terminal)
 
 Used the EC2 Connect feature to access the instance via browser-based Linux terminal.
 
@@ -66,7 +66,7 @@ Used the EC2 Connect feature to access the instance via browser-based Linux term
 ![EC2 Web CLI](./screenshots/step-08-ec2-connect-cli.png)
 
 
-### 7️⃣ Running Linux Diagnostic Commands
+###  Running Linux Diagnostic Commands
 
 Executed basic Linux terminal commands to explore system-level information:
 
@@ -86,7 +86,7 @@ Executed basic Linux terminal commands to explore system-level information:
 - ![df](./screenshots/step-13-df.png)
 
 
-### 8️⃣ EC2 Instance Termination
+###  EC2 Instance Termination
 
 Terminated the EC2 instance after usage to prevent AWS charges.
 
@@ -96,11 +96,11 @@ Terminated the EC2 instance after usage to prevent AWS charges.
 
 ##  What I Learned
 
-- ✅ Creating and managing S3, EC2, and IAM resources
-- ✅ Navigating the AWS Console effectively
-- ✅ Executing Linux commands inside an AWS EC2 instance
-- ✅ Following cost-saving best practices (resource cleanup)
-- ✅ Gaining confidence in foundational cloud infrastructure concepts
+-  Creating and managing S3, EC2, and IAM resources
+-  Navigating the AWS Console effectively
+-  Executing Linux commands inside an AWS EC2 instance
+-  Following cost-saving best practices (resource cleanup)
+-  Gaining confidence in foundational cloud infrastructure concepts
 
 
 ##  Author
@@ -114,6 +114,6 @@ This project was executed through the *AWS Skill Builder* platform as part of my
 Thanks to AWS for providing practical, hands-on learning resources for beginners.
 
 
-## ⚠ Note
+##  Note
 
 > Always terminate EC2 instances and delete unused resources after use to avoid unexpected billing.

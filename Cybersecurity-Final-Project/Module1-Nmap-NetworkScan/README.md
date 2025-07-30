@@ -1,6 +1,6 @@
 # cybercloud-labs
 Projects on cybersecurity and AWS cloud security. Focused on building skills toward ethical hacking and cloud engineering roles.
-# 🛡 Module 1: Network Recon with Nmap
+#  Module 1: Network Recon with Nmap
 
 ## Project Objective
 Perform a network scan to identify open ports and services on a Windows host, using Nmap, and analyze potential vulnerabilities based on service exposure.

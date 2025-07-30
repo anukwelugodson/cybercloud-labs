@@ -15,20 +15,20 @@ All screenshots are stored in the screenshots/ subfolder.
 To show practical understanding of cloud computing services—particularly *Amazon EC2—by launching a virtual server, running system diagnostics, and analyzing server environment information, **while documenting everything for learning and recruitment demonstration*.
 
 
-## ✅ Tools & Skills Demonstrated
+##  Tools & Skills Demonstrated
 
-- ✅ EC2 Instance Creation (Amazon Linux 2)
-- ✅ System diagnostics via Linux CLI
-- ✅ Screenshot documentation
-- ✅ Analysis of cloud VM behavior
-- ✅ Linux terminal commands and firewall checks
-- ✅ Understanding VM properties and virtualization security
-
-
-## 🔢 Step-by-Step Execution
+-  EC2 Instance Creation (Amazon Linux 2)
+-  System diagnostics via Linux CLI
+-  Screenshot documentation
+-  Analysis of cloud VM behavior
+-  Linux terminal commands and firewall checks
+-  Understanding VM properties and virtualization security
 
 
-### 🟢 Step 1: Creating the EC2 Instance
+##  Step-by-Step Execution
+
+
+###  Step 1: Creating the EC2 Instance
 
 Using the AWS Console:
 
@@ -45,7 +45,7 @@ Using the AWS Console:
 
 ---
 
-### 🟡 Step 2: Connecting to EC2 Using Browser CLI
+###  Step 2: Connecting to EC2 Using Browser CLI
 
 - Used the *EC2 Connect* feature (browser-based terminal) to access the Linux environment without needing SSH key setup
 - Confirmed successful connection to the instance and CLI terminal
@@ -55,21 +55,21 @@ Using the AWS Console:
 
 ---
 
-### 🔍 Step 3: Running Diagnostic Commands on EC2
+###  Step 3: Running Diagnostic Commands on EC2
 
 Once inside the EC2 Linux terminal, I executed various system commands to understand the virtual machine behavior and environment.
 
 ---
 
-#### 🧑‍💻 3.1: whoami – Current User Identity
+####  3.1: whoami – Current User Identity
 
 Used to check which user is currently executing terminal commands. This validates access and confirms login identity.
 
 ---
 
-## 🔧 Step-by-Step Execution
+##  Step-by-Step Execution
 
-### 1️⃣ Who Am I? (User Identity)
+### 1️ Who Am I? (User Identity)
 
 We ran the whoami command to check which user is currently logged in to the server.
 
@@ -86,7 +86,7 @@ This confirms the active user session on the server. It helps verify that you're
 
 ---
 
-### 2️⃣ Hostname (Machine Identification)
+###  Hostname (Machine Identification)
 
 Next, we used the hostname command to reveal the name assigned to the server by the system.
 
@@ -103,7 +103,7 @@ This is useful when identifying the server in a network, especially when managin
 
 ----
 
-### 3️⃣ System Information
+###  System Information
 
 To retrieve detailed hardware and OS data, we used the systeminfo command.
 
@@ -120,7 +120,7 @@ This gives full system diagnostics — OS version, processor, installed RAM, net
 
 ----
 
-### 4️⃣ IP Address and Network Details
+###  IP Address and Network Details
 
 We checked all network configurations using the following:
 
@@ -137,7 +137,7 @@ This reveals IP addresses, DNS servers, MAC addresses, and DHCP info. It's essen
 
 ----
 
-### 5️⃣ Firewall Status (Windows Defender)
+###  Firewall Status (Windows Defender)
 
 We verified the status of Windows Defender (antivirus/firewall) using PowerShell:
 
@@ -154,7 +154,7 @@ This shows whether protection services are running. In this case, we confirmed t
 
 ---
 
-### 6️⃣ SSH Configuration (Password Authentication)
+###  SSH Configuration (Password Authentication)
 
 We viewed the SSH daemon configuration file to check if password authentication was allowed.
 
@@ -171,7 +171,7 @@ This tells us if remote users can log in using passwords. If PasswordAuthenticat
 
 ---
 
-### 7️⃣ VM & Hypervisor Detection Check
+###  VM & Hypervisor Detection Check
 
 We scanned for VM-related binaries to detect if the machine was a virtual machine using this command:
 
@@ -194,14 +194,14 @@ IsVirtualMachine : False
 
 ---
 
-## ✅ What I Learned
+##  What I Learned
 
-- ✅ How to verify user and host identity in a cloud-like system
-- ✅ How to collect full system and network diagnostics
-- ✅ How to check firewall and antivirus status in a Windows system
-- ✅ How to audit SSH security settings on a Linux VM
-- ✅ How to identify if a system is running in a virtualized environment
-- ✅ How to explain these steps to recruiters or colleagues confidently
+-  How to verify user and host identity in a cloud-like system
+-  How to collect full system and network diagnostics
+-  How to check firewall and antivirus status in a Windows system
+-  How to audit SSH security settings on a Linux VM
+-  How to identify if a system is running in a virtualized environment
+-  How to explain these steps to recruiters or colleagues confidently
 
 ---
 
@@ -215,16 +215,16 @@ This project helped solidify my understanding of system-level operations that ev
 
 *Anukwelu Amamachukwu Godson*  
 Cloud Computing Student | Cybersecurity Enthusiast  
-✅ Completed:  
+ Completed:  
 - AWS Cloud Practitioner  
 - AWS Essentials  
 - Cloud Computing (Offline Lab Project)  
 - Cisco Cybersecurity (5 Modules + Projects)
 
-🛠 Currently Finalizing:  
+ Currently Finalizing:  
 - Cybersecurity Module Projects (Module 5)
 
-📌 Up Next:  
+ Up Next:  
 - Cloud Security (AWS-focused)  
 - Networking Fundamentals  
 - Ethical Hacking (Beginner to Intermediate)
@@ -234,6 +234,6 @@ Cloud Computing Student | Cybersecurity Enthusiast
 
 ---
 
-## 📌 Note
+##  Note
 
 > This project was executed as part of an *offline Cloud Computing training* program, simulating practical cloud tasks using local or VM environments.
