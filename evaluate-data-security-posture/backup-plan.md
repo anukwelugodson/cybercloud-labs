@@ -94,7 +94,7 @@ If hiring IT isn’t possible right away, choose a **cloud backup product with o
 ## Screenshot placeholders (to replace later)
 Insert screenshots here once you fetch them from IBM SkillsBuild capstone and your backup plan setup:  
 
-![SkillsBuild Capstone Project](./evidence/SkillsBuild-capstone-project.png)
+![SkillsBuild Capstone Project](./evidence/skillsbuild-capstone-project.png)
 ![Project Completion Screenshot](./evidence/project-completion.png)
 ![SkillsBuild Badge Proof](./evidence/governance-risk-compliance-and-data-privacy-badge.png)
 
